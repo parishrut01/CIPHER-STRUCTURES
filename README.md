@@ -23,15 +23,17 @@ It contains curated notes, implementations, and experiments — from abstract al
 
 ## `Let's Begin`
 
-> This module lays the foundation by answering the most essential questions: What is cryptography? Why do we need it? And how does it impact the digital world around us?
-We begin with a conceptual overview of cryptography — not just as a tool for secrecy, but as a mathematical framework for ensuring confidentiality, integrity, authenticity, and trust. From securing your messages to powering digital currencies, cryptography is at the heart of modern information systems.
-You’ll explore its core goals, its evolution alongside technology, and the problems it was designed to solve. No prior mathematical or technical background is assumed — this section is meant to provide intuitive insights before diving deeper.
-Whether you're a curious beginner or brushing up before tackling more complex ideas, this module sets the stage for everything that follows.
+> This module sets the stage by providing the most fundamental questions: What is cryptography? Why do we need cryptography? And how does cryptography shape the digital world we experience?
+>
+> We start with an abstract introduction to cryptography — not only as a mechanism for secrecy, but also as a mathematical construct for guaranteeing confidentiality, integrity, authenticity, and trust. From securing your messages to powering digital currencies, cryptography is at the heart of modern information systems. You’ll explore its core goals, its evolution alongside technology, and the problems it was designed to solve. No prior mathematical or technical background is assumed — this section is meant to provide intuitive insights before diving deeper.
+>
+> Whether you are a curious beginner, or just reviewing in preparation for more difficult concepts, this module lays the groundwork for all that is to come.
+
 ---
 
 ## `History`
 
-> For the module on [history](https://www.geeksforgeeks.org/computer-networks/history-of-cryptography/), we begin with classical ciphers like the [Caesar cipher](https://www.geeksforgeeks.org/ethical-hacking/caesar-cipher-in-cryptography/), [Vigenère cipher](https://www.geeksforgeeks.org/dsa/vigenere-cipher/), and the ingenuity of ancient cryptographers who relied on secrecy through obscurity.
+> For the module on [history](https://www.geeksforgeeks.org/computer-networks/history-of-cryptography/), we begin with classical ciphers like the [Caesar cipher](https://www.geeksforgeeks.org/ethical-hacking/caesar-cipher-in-cryptography/), [Vigenère cipher](https://www.geeksforgeeks.org/dsa/vigenere-cipher/), and the genius of ancient cryptographers who relied on secrecy through obscurity.
 > 
 >Then we move into the era of mechanical cryptography, featuring systems like the [Enigma machine](https://brilliant.org/wiki/enigma-machine/), whose cracking shaped the outcome of World War II. Next comes the revolutionary shift to modern cryptography: the invention of [public-key cryptography](https://www.geeksforgeeks.org/computer-networks/public-key-encryption/), [RSA](https://www.geeksforgeeks.org/computer-networks/rsa-algorithm-cryptography/), [Diffie-Hellman](https://www.geeksforgeeks.org/computer-networks/diffie-hellman-key-exchange-and-perfect-forward-secrecy/), and the emergence of [digital signatures](https://www.geeksforgeeks.org/computer-networks/digital-signatures-certificates/) and [hash functions](https://www.geeksforgeeks.org/dsa/hash-functions-and-list-types-of-hash-functions/). Finally, we touch on the rise of [zero-knowledge proofs](https://www.geeksforgeeks.org/computer-networks/zero-knowledge-proof/), [blockchain](https://www.geeksforgeeks.org/ethical-hacking/blockchain-technology-introduction/), and cryptography’s role in decentralized systems.
 >
@@ -127,7 +129,7 @@ Hands-on intuition meets formal definitions, leading into cryptography friendly 
 - https://www.math.toronto.edu/swastik/courses/rutgers/finitefields-F19/intro.pdf.
 - https://o1-labs.github.io/proof-systems/plonk/polynomial_commitments.html.
 
-Stay updated, deepen context, or contribute!
+Stay updated, deepen concepts and create without limits.
 
 ---
 
