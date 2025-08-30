@@ -1,2 +1,2 @@
-# FromZERO
-Exploring the math and magic of proofs without revealing — and everything in between. ZK, decoded.
+# CIPHER_STRUCTURE
+"Exploring the magic of mathematics and cryptography — and everything in between."
