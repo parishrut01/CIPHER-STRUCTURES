@@ -123,7 +123,7 @@ Hands-on intuition meets formal definitions, leading into cryptography friendly 
 - https://medium.com/@barchitect/advanced-cryptography-primitives-group-finite-field-elliptic-curve-and-pairing-8489e296115d.
 - https://www.britannica.com/science/modern-algebra/Rings.
 - https://eprint.iacr.org/2021/571.
-- https://mkowal2.github.io/posts/2020/01/understanding-mi/
+- https://mkowal2.github.io/posts/2020/01/understanding-mi/.
 - https://www.math.toronto.edu/swastik/courses/rutgers/finitefields-F19/intro.pdf.
 - https://o1-labs.github.io/proof-systems/plonk/polynomial_commitments.html.
 
