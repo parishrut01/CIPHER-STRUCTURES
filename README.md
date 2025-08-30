@@ -41,56 +41,91 @@ Whether you're a curious beginner or brushing up before tackling more complex id
 
 ## `The Math`
 
-> Before we can unlock the mechanics of cryptographic systems, we need to speak the language they’re built in: Mathematics.
+> Before we can unlock the mechanics of cryptographic systems, we need to speak the language they’re built in: **Mathematics**.
 >
 > This module starts with the essentials:—
-> 1. Foundation
+> 1. **Foundation**
  >> a. [Set Theory](https://www.geeksforgeeks.org/maths/set-theory/).
+> >
  >> b. [Functions and Relations](https://www.geeksforgeeks.org/maths/relations-and-functions/).
- >> c. [Logic](https://www.geeksforgeeks.org/maths/introduction-to-mathematical-logic/) and [Propositional Calculus](https://www.geeksforgeeks.org/engineering-mathematics/proposition-logic/)
- >> iv Basic [combinatorics](https://www.geeksforgeeks.org/engineering-mathematics/combinatorics/) and [Proof techniques](https://www.geeksforgeeks.org/maths/mathematics-introduction-to-proofs/)
-> 2.
-> 6.
-> 7.
-> 8.
-> 9.
-> 10.
-> 11.
+> >
+ >> c. [Logic](https://www.geeksforgeeks.org/maths/introduction-to-mathematical-logic/) and [Propositional Calculus](https://www.geeksforgeeks.org/engineering-mathematics/proposition-logic/).
+> >
+ >> d. Basic [combinatorics](https://www.geeksforgeeks.org/engineering-mathematics/combinatorics/) and [Proof techniques](https://www.geeksforgeeks.org/maths/mathematics-introduction-to-proofs/).
+> 2. **Number Theory**
+ >> a. [Prime factorization](https://www.geeksforgeeks.org/maths/prime-factorization/).
+> >
+ >> b. [Greatest Common Divisor (GCD)](https://www.geeksforgeeks.org/maths/greatest-common-divisor-gcd/), [Euclidean algorithm](https://www.geeksforgeeks.org/dsa/euclidean-algorithms-basic-and-extended/).
+> >
+ >> c. [Modular arithmetic](https://www.geeksforgeeks.org/engineering-mathematics/modular-arithmetic/).
+> >
+ >> d. [Euler’s theorem](https://www.geeksforgeeks.org/maths/eulers-theorem/) and [Fermat’s Little Theorem](https://www.geeksforgeeks.org/dsa/fermats-little-theorem/).
+> >
+ >> e. [Chinese Remainder Theorem](https://www.geeksforgeeks.org/maths/chinese-remainder-theorem/).
+> >
+ >> f. [Discrete logarithms](https://www.brainkart.com/article/Discrete-Logarithms_8433/).
+> > 
+ >> g. [Quadratic residues](https://mathworld.wolfram.com/QuadraticResidue.html).
+> 3. **Abstract Algebra**
+ >> a. [Groups theory](https://www.geeksforgeeks.org/engineering-mathematics/groups-discrete-mathematics/) ([cyclic groups](https://www.geeksforgeeks.org/engineering-mathematics/cayley-table-and-cyclic-group-mathematics/), [group homomorphisms](https://www.geeksforgeeks.org/engineering-mathematics/group-homomorphisms-and-normal-subgroup/), [orders](https://www.geeksforgeeks.org/engineering-mathematics/subgroup-and-order-of-group-mathematics/#order-of-group)).
+> >
+ >> b. [Rings theory](https://math.libretexts.org/Bookshelves/Combinatorics_and_Discrete_Mathematics/Applied_Discrete_Structures_(Doerr_and_Levasseur)/16%3A_An_Introduction_to_Rings_and_Fields/16.01%3A_Rings_Basic_Definitions_and_Concepts) and [Fields](https://math.libretexts.org/Bookshelves/Abstract_and_Geometric_Algebra/Rings_with_Inquiry_(Janssen_and_Lindsey)/02%3A_Fields_and_Rings/2.01%3A_Fields).
+> >
+ >> c. [Polynomials over finite fields](https://en.wikipedia.org/wiki/Polynomial_ring?utm_source=chatgpt.com#Over_finite_fields).
+> >
+ >> d. [Vector spaces](https://www.geeksforgeeks.org/maths/vector-space/).
+> 4. **Linear Algebra**
+ >> a. [Vectors](https://www.geeksforgeeks.org/maths/vector-algebra/) and [Matrices](https://www.geeksforgeeks.org/engineering-mathematics/matrices/).
+> >
+ >> b. [Determinants](https://www.geeksforgeeks.org/maths/what-is-determinant-of-a-matrix/), [rank](https://en.wikipedia.org/wiki/Rank_(linear_algebra)) and [null space](https://www.geeksforgeeks.org/machine-learning/null-space-and-nullity-of-a-matrix/).
+> >
+ >> c. [Linear independence](https://www.geeksforgeeks.org/maths/linear-independence/) and [basis](https://en.wikipedia.org/wiki/Basis_(linear_algebra)).
+> >
+ >> d. [Dot product ](https://mathworld.wolfram.com/DotProduct.html) and [inner product](https://mathworld.wolfram.com/InnerProduct.html)
+> 4. **Probability & Information Theory**
+ >> a. [Basic probability theory](https://www.geeksforgeeks.org/maths/probability-theory/).
+> >
+ >> b. [Random variables](https://www.geeksforgeeks.org/engineering-mathematics/random-variable/) and [distributions](https://en.wikipedia.org/wiki/Probability_distribution).
+> >
+ >> c. [Entropy](https://brilliant.org/wiki/entropy-information-theory/) and [mutual information](https://en.wikipedia.org/wiki/Mutual_information).
+> 5. **Computational Mathematics**
+ >> a. [Time and space complexity](https://www.geeksforgeeks.org/dsa/time-complexity-and-space-complexity/) ([Big O notation](https://www.geeksforgeeks.org/dsa/analysis-algorithms-big-o-analysis/)).
+> >
+ >> b. [Computational hardness assumptions](https://graphsearch.epfl.ch/en/concept/6158383) (e.g., factoring, discrete log).
+> >
+ >> c. [Randomized algorithms](https://www.geeksforgeeks.org/dsa/randomized-algorithms/).
+> >
+ >> d. [Hash functions](https://www.geeksforgeeks.org/dsa/hash-functions-and-list-types-of-hash-functions/) and [collision resistance](https://en.wikipedia.org/wiki/Collision_resistance) (through mathematical prespective).
+
 ---
 
 ## `Crypto-Math`
 
 > The algebra beneath cryptography.  
 Key topics:
-- Finite fields & prime moduli
-- Elliptic curves & curve arithmetic
-- Polynomial commitments
-- Cryptographic hash functions
+- [Elliptic curve groups over finite fields](https://rareskills.io/post/elliptic-curves-finite-fields).
+- [Weierstrass equations](https://mathworld.wolfram.com/WeierstrassEllipticFunction.html).
+- [Polynomial commitments](https://rareskills.io/post/pedersen-polynomial-commitment).
+- [Cryptographic hash functions](https://www.geeksforgeeks.org/competitive-programming/cryptography-hash-functions/).
+- [Pairings](https://en.wikipedia.org/wiki/Pairing-based_cryptography) (e.g., bilinear pairings for zkSNARKs).
 
-Hands-on intuition meets formal definitions, leading into ZK-friendly math (e.g., SNARK circuits).
-
----
-
-## `Proofs`
-
-> The "why" and "how" of proving without revealing.  
-This module introduces:
-- Proof systems (interactive vs non-interactive)
-- Soundness, completeness, zero-knowledge
-- Example proof constructions (e.g. Schnorr, Sigma protocols)
-- Circuits and constraint systems
-
-Mathematics meets protocol design.
+Hands-on intuition meets formal definitions, leading into cryptography friendly math.
 
 ---
 
 ## `Extras`
 
 > A curated selection of learning materials:
-- 📚 Papers worth reading
-- 📺 Lectures and talks
-- 🛠️ Libraries, tools, and playgrounds (e.g., Circom, Noir, Arkworks)
-- 🗂️ External blog posts and explainers
+- [Lattice Theory](http://boole.stanford.edu/cs353/handouts/book1.pdf) (post-quantum cryptography).
+- https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII.
+- https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX.
+- https://www.youtube.com/playlist?list=PL8Vt-7cSFnw29cLUVqAIuMlg1QJ-szV0K.
+- https://medium.com/@barchitect/advanced-cryptography-primitives-group-finite-field-elliptic-curve-and-pairing-8489e296115d.
+- https://www.britannica.com/science/modern-algebra/Rings.
+- https://eprint.iacr.org/2021/571.
+- https://mkowal2.github.io/posts/2020/01/understanding-mi/
+- https://www.math.toronto.edu/swastik/courses/rutgers/finitefields-F19/intro.pdf.
+- https://o1-labs.github.io/proof-systems/plonk/polynomial_commitments.html.
 
 Stay updated, deepen context, or contribute!
 
