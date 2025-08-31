@@ -142,6 +142,7 @@ In this module we dive into the basic principles of zero-knowledge proofs.
  
 **Types of Zero-Knowledge Proofs:**
 > _Interactive Zero-Knowledge Proofs:_ These proofs involve multiple rounds of interaction between the prover and the verifier, with the verifier asking challenges that the prover must answer correctly.
+> 
 > _Non-Interactive Zero-Knowledge Proofs (NIZKs):_ These are more complex but allow for a single proof to be generated and verified later without further interaction. Notable examples include:
 >> 1. zk-SNARKs (Succinct Non-Interactive ARguments of Knowledge): These create very small proofs that can be verified quickly.
 >> 2. Bulletproofs: A type of ZKP that offers shorter proof sizes than traditional SNARKs while not requiring a trusted setup.
