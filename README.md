@@ -16,7 +16,7 @@ It contains curated notes, implementations, and experiments — from abstract al
 |  `History`      | Classical ciphers, crypto timeline                 | From Caesar ciphers to public-key cryptography and modern ZK systems.        |
 |  `The Math`     | Sets, functions, logic, etc                        | We start with the basics and dive into advanced mathematical topics.         |
 |  `Crypto-Math`  | Finite fields, elliptic curves, polynomials, hashes| Mathematical tools foundational to cryptographic systems.                    |
-|  `ZERO`         | Zero-Knowledge                                     | Introduction to Zero Knowledege proofs.                                      |
+|  `ZERO`         | Zero-Knowledge                                     | Introduction to Zero-Knowledege proofs.                                      |
 |  `Proofs`       | Soundness, completeness, proof techniques, types   | How cryptographic proofs are constructed, verified, and reasoned about.      |
 |  `Extras`       | Resources                                          | Further reading, papers, courses, and curated external links.                |
 
@@ -34,8 +34,10 @@ Whether you are a curious beginner, or just reviewing in preparation for more di
 
 ## `History`
 
-> For the module on [history](https://www.geeksforgeeks.org/computer-networks/history-of-cryptography/), we begin with classical ciphers like the [Caesar cipher](https://www.geeksforgeeks.org/ethical-hacking/caesar-cipher-in-cryptography/), [Vigenère cipher](https://www.geeksforgeeks.org/dsa/vigenere-cipher/), and the genius of ancient cryptographers who relied on secrecy through obscurity.
+For the module on [history](https://www.geeksforgeeks.org/computer-networks/history-of-cryptography/).
 
+> We begin with classical ciphers like the [Caesar cipher](https://www.geeksforgeeks.org/ethical-hacking/caesar-cipher-in-cryptography/), [Vigenère cipher](https://www.geeksforgeeks.org/dsa/vigenere-cipher/), and the genius of ancient cryptographers who relied on secrecy through obscurity.
+> 
 >Then we move into the era of mechanical cryptography, featuring systems like the [Enigma machine](https://brilliant.org/wiki/enigma-machine/), whose cracking shaped the outcome of World War II. Next comes the revolutionary shift to modern cryptography: the invention of [public-key cryptography](https://www.geeksforgeeks.org/computer-networks/public-key-encryption/), [RSA](https://www.geeksforgeeks.org/computer-networks/rsa-algorithm-cryptography/), [Diffie-Hellman](https://www.geeksforgeeks.org/computer-networks/diffie-hellman-key-exchange-and-perfect-forward-secrecy/), and the emergence of [digital signatures](https://www.geeksforgeeks.org/computer-networks/digital-signatures-certificates/) and [hash functions](https://www.geeksforgeeks.org/dsa/hash-functions-and-list-types-of-hash-functions/). Finally, we touch on the rise of [zero-knowledge proofs](https://www.geeksforgeeks.org/computer-networks/zero-knowledge-proof/), [blockchain](https://www.geeksforgeeks.org/ethical-hacking/blockchain-technology-introduction/), and cryptography’s role in decentralized systems.
 
 This historical lens doesn’t just show what came before — it reveals how each leap in cryptography responded to real-world needs and laid the groundwork for the tools we study today.
@@ -111,8 +113,7 @@ This module starts with the essentials:
 
 ## `Crypto-Math`
 
-The algebra beneath cryptography.  
- Key topics:
+Key concepts:
 > 1. [Elliptic curve groups over finite fields](https://rareskills.io/post/elliptic-curves-finite-fields).
 > 2. [Weierstrass equations](https://mathworld.wolfram.com/WeierstrassEllipticFunction.html).
 > 3. [Polynomial commitments](https://rareskills.io/post/pedersen-polynomial-commitment).
