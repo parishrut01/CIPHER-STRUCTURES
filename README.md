@@ -75,7 +75,6 @@ This module starts with the essentials:
  >> h. [Quadratic residues](https://mathworld.wolfram.com/QuadraticResidue.html).
 > >
  >> i. [Modular inverses](https://www.geeksforgeeks.org/dsa/multiplicative-inverse-under-modulo-m/).
-
 > 3. **Abstract Algebra**
  >> a. [Groups theory](https://www.geeksforgeeks.org/engineering-mathematics/groups-discrete-mathematics/) ([cyclic groups](https://www.geeksforgeeks.org/engineering-mathematics/cayley-table-and-cyclic-group-mathematics/), [group homomorphisms](https://www.geeksforgeeks.org/engineering-mathematics/group-homomorphisms-and-normal-subgroup/), [orders](https://www.geeksforgeeks.org/engineering-mathematics/subgroup-and-order-of-group-mathematics/#order-of-group)).
 > >
