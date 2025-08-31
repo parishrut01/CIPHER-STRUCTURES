@@ -165,6 +165,7 @@ A curated selection of learning materials:
 - https://codethechange.stanford.edu/guides/guide_zk.html.
 - https://rareskills.io/zk-book.
 - https://www.helius.dev/blog/zero-knowledge-proofs-an-introduction-to-the-fundamentals
+- https://github.com/matter-labs/awesome-zero-knowledge-proofs
 
 Stay updated, deepen concepts and create without limits.
 
