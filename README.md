@@ -38,7 +38,7 @@ Whether you are a curious beginner, or just reviewing in preparation for more di
 
 >Then we move into the era of mechanical cryptography, featuring systems like the [Enigma machine](https://brilliant.org/wiki/enigma-machine/), whose cracking shaped the outcome of World War II. Next comes the revolutionary shift to modern cryptography: the invention of [public-key cryptography](https://www.geeksforgeeks.org/computer-networks/public-key-encryption/), [RSA](https://www.geeksforgeeks.org/computer-networks/rsa-algorithm-cryptography/), [Diffie-Hellman](https://www.geeksforgeeks.org/computer-networks/diffie-hellman-key-exchange-and-perfect-forward-secrecy/), and the emergence of [digital signatures](https://www.geeksforgeeks.org/computer-networks/digital-signatures-certificates/) and [hash functions](https://www.geeksforgeeks.org/dsa/hash-functions-and-list-types-of-hash-functions/). Finally, we touch on the rise of [zero-knowledge proofs](https://www.geeksforgeeks.org/computer-networks/zero-knowledge-proof/), [blockchain](https://www.geeksforgeeks.org/ethical-hacking/blockchain-technology-introduction/), and cryptography’s role in decentralized systems.
 
-> This historical lens doesn’t just show what came before — it reveals how each leap in cryptography responded to real-world needs and laid the groundwork for the tools we study today.
+This historical lens doesn’t just show what came before — it reveals how each leap in cryptography responded to real-world needs and laid the groundwork for the tools we study today.
 
 ---
 
