@@ -134,11 +134,11 @@ Hands-on intuition meets formal definitions, leading into cryptography friendly 
 In this module we dive into the basic principles of zero-knowledge proofs.
 
 > **Soundness:** The property that prevents a dishonest prover from convincing an honest verifier that a statement is true when it is actually false. A sound system ensures that if a prover cannot actually possess the information (the "secret") to make the statement true, the protocol will expose their attempt to cheat with a very high probability, thus protecting the system from false claims. 
-
+>
 > **Completeness:** The property that ensures an honest prover can always convince an honest verifier that a statement is true, provided the statement is actually true. This means if the statement being proven is valid, the proof process will successfully demonstrate its validity, making the verifier accept it.
-
+>
 > **Proof Techniques:** Cryptographic methods that allow a prover to demonstrate the truth of a statement to a verifier without revealing any information beyond the statement's validity itself. The core principles are completeness (an honest prover can convince an honest verifier), soundness (a dishonest prover cannot fool a verifier), and zero-knowledge (the verifier learns nothing but the truth of the statement). Key types include interactive ZKPs, which require multiple back-and-forth exchanges, and non-interactive ZKPs (like zk-SNARKs and Bulletproofs), which produce a single, self-contained proof.
- 
+
 **Types of Zero-Knowledge Proofs:**
 > _Interactive Zero-Knowledge Proofs:_ These proofs involve multiple rounds of interaction between the prover and the verifier, with the verifier asking challenges that the prover must answer correctly.
 > 
